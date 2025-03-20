@@ -4,11 +4,12 @@
   "description": "nevo installed extensions",
   "icon": "icon/image.png",
   "version": "0.0.1",
+  "publisher": "nevo",
   "keywords": [
     "nevo",
-    "theme",
-    "dark",
-    "dark theme",
+    "pack",
+    "package",
+    "vscode",
     "nev"
   ],
   "scripts": {
